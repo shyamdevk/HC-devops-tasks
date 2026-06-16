@@ -318,13 +318,13 @@ Add screenshots here before submission:
 ### Homepage
 
 
-![Kubernetes](https://github.com/shyamdevk/HC-devops-tasks/blob/images/log.png)
+![Kubernetes](https://github.com/shyamdevk/HC-devops-tasks/blob/images/log.jpg)
 
 
 ### WordPress Dashboard
 
 
-![Kubernetes](https://github.com/shyamdevk/HC-devops-tasks/blob/images/dash.png)
+![Kubernetes](https://github.com/shyamdevk/HC-devops-tasks/blob/images/dash.jpg)
 
 
 ### HTTPS Certificate
