@@ -73,7 +73,7 @@ This task establishes the DNS foundation required for future AWS deployments and
 
 ## Outcome
 
-![Kubernetes](https://github.com/shyamdevk/HC-devops-tasks/blob/images/Hosted Zone.png)
+![Kubernetes](https://github.com/shyamdevk/HC-devops-tasks/blob/images/Hosted.png)
 
 Successfully created and configured the Route 53 hosted zone, retrieved and submitted the required NS records, and completed the prerequisite DNS setup required for future AWS infrastructure tasks.
 
