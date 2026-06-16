@@ -209,6 +209,8 @@ after server reboot.
 
 Successfully installed Apache Web Server and PHP on AlmaLinux 9.
 
+![Kubernetes](https://github.com/shyamdevk/HC-devops-tasks/blob/images/php.png)
+
 Verified:
 
 * Apache service is running
